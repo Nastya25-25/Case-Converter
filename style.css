@@ -1,0 +1,29 @@
+*{
+    font-family: 'Lobster', cursive;
+}
+.title{
+    font-size: 5rem;
+}
+textarea{
+    width: 1000px;
+    height: 400px;
+    border: 2px solid gray;
+}
+
+.buttons{
+    margin-top: 8px;
+}
+button{
+    background-color: coral;
+    height: 40px;
+    font-size: 15px;
+    margin-right: 20px;
+    border: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+
+}
